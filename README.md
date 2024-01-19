@@ -3,14 +3,14 @@
 
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
-  &nbsp;WELCOME MY PROFILE&nbsp;
+  &nbsp;WELCOME TO MY PROFILE&nbsp;
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;Ghost+Kinh+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
-```༊আফসোস•
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;Ghost+King+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
+```
 
 •I AM GHOST 
 
@@ -37,19 +37,19 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐍𝐀𝐌𝐄:- GHOST KING
+- 👑 NAME:- GHOST KING
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [GHOST](https://www.facebook.com/DBZ280)
+- 👑 FACEBOOK:- [GHOST](https://www.facebook.com/DBZ280)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐅𝐁 𝐏𝐀𝐆𝐄:- [GAMING EXPORT](https://www.facebook.com/Voice.Of.Rj.Rifat)
+- 👑 YT CHANNEL:- [God Killer](https://www.facebook.com/DBZ280)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐆𝐈𝐓𝐇𝐔𝐁:- [GHOST3987](https://github.com/R1F4T-2-0)
+- 👑 GITHUB:- [GHOST3987](https://github.com/Ghost3987)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -76,7 +76,7 @@
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=R1F4T-2-0&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="DIPTO's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Ghost3987&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="DIPTO's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
