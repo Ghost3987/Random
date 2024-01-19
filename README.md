@@ -1,5 +1,5 @@
 ![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20BY ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
@@ -9,7 +9,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;My+R1F4T+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;Ghost+Kinh+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
 ```༊আফসোস•
 
 •I AM GHOST 
@@ -27,7 +27,7 @@
 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
- <img src="https://profile-counter.glitch.me/R1F4T-2-0/count.svg" />
+ <img src="https://profile-counter.glitch.me/Ghost3987/count.svg" />
 
 </p>
 
@@ -37,19 +37,19 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐍𝐀𝐌𝐄:- Md. Rifat Hasan Rear 
+- 👑 𝐍𝐀𝐌𝐄:- GHOST KING
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Md.Rifat Hasan Rear](https://www.facebook.com/R1F4T.OFFICIAL.ACCOUNT)
+- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [GHOST](https://www.facebook.com/DBZ280)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐅𝐁 𝐏𝐀𝐆𝐄:- [Voice Of Rj Rifat](https://www.facebook.com/Voice.Of.Rj.Rifat)
+- 👑 𝐅𝐁 𝐏𝐀𝐆𝐄:- [GAMING EXPORT](https://www.facebook.com/Voice.Of.Rj.Rifat)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐆𝐈𝐓𝐇𝐔𝐁:- [R1F4T-2-0](https://github.com/R1F4T-2-0)
+- 👑 𝐆𝐈𝐓𝐇𝐔𝐁:- [GHOST3987](https://github.com/R1F4T-2-0)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -85,4 +85,3 @@
 ## PROFILE VISITORS
 
 <img src="https://profile-counter.glitch.me/Ghost3987/count.svg" />
-
