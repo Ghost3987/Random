@@ -19,7 +19,7 @@
     
 
 ```
-[![IMG-20230929-230816.png](https://i.postimg.cc/fW2sHVYL/IMG-20230929-230816.png)](https://postimg.cc/K4MCjvqS)
+[![received-1503466757169172.jpg)](https://i.postimg.cc/6QRGmGbk/received-1503466757169172.jpg)](https://postimg.cc/K4MCjvqS)
 
 </p>
 
@@ -37,19 +37,19 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 NAME:- GHOST KING
+- 👑 NAME : [GHOST KING]
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 FACEBOOK:- [GHOST](https://www.facebook.com/DBZ280)
+- 👑 FACEBOOK : [GHOST](https://www.facebook.com/DBZ280)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 YT CHANNEL:- [God Killer](https://www.facebook.com/DBZ280)
+- 👑 YT CHANNEL : [God Killer](https://www.facebook.com/DBZ280)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 GITHUB:- [GHOST3987](https://github.com/Ghost3987)
+- 👑 GITHUB : [GHOST3987](https://github.com/Ghost3987)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
