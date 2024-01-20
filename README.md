@@ -12,9 +12,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;Ghost+King+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
 ```
 
-•I AM GHOST 
+• I AM UNSTOPPABLE 
 
-•THE END OF YOU
+• REMEMBER ME 
 
     
 
@@ -37,7 +37,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 NAME : [GHOST KING]
+- 👑 NAME : GHOST KING
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
